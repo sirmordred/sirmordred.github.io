@@ -1,2 +1,1 @@
-# sirmordred.github.io
-Official Resume/CV/Portfolio hosted on Github.io (gh-pages) http://sirmordred.github.io
+# My Personal Portfolio/CV/Resume hosted on Github.io

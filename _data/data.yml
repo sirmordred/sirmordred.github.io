@@ -1,0 +1,141 @@
+sidebar:
+    # Site Settings
+    title: My Resume
+    url: 'http://sirmordred.com'
+    about: false
+    
+    # Profile information
+    name: Oğuzhan Yiğit
+    tagline: Software Engineer / Mobile App Developer
+    pic: mordred.png
+    
+    # Sidebar links
+    email: oguzhan97yigit@gmail.com
+    phone: 90 537 816 95 42
+    website: blog.sirmordred.com #do not add http://
+    linkedin: sirmordred
+    github: sirmordred
+    twitter: '@LeoTetracaprio'
+
+    languages:
+        - language:
+          idiom: Turkish
+          level: Native
+        - language:
+          idiom: English
+          level: Professional
+        - language:
+          idiom: German
+          level: Amateur
+        
+    interests:
+        - interest:
+          item: Producing electronic house music
+          link:
+        - interest:
+          item: Basketball
+          link:
+        - interest:
+          item: Cooking
+          link:
+
+        
+
+
+
+
+career-profile: 
+    title: Career Profile
+    text: 'Experienced and dedicated mobile app developer offering more than 4+ years of expertise to the software industry. Dynamic and personable with strong focus on the application lifecycle. Desires a software-driven position that provides customized business-to-business applications'
+
+
+studies: 
+    - education:
+      degree: Undergraduate Student in Computer Science
+      university: University of Marmara
+      time: 2015 - 2020
+      details: "Still studying as Undergraduate Student in Computer Science an Engineering Department of Marmara University"
+
+    - education:
+      degree: Student
+      high school: Isparta Suleyman Demirel High School of Science
+      time: 2011 - 2015
+      details: "I graduated at 2015"
+
+
+
+experiences:
+    title: Experiences
+    
+    
+    experiences:
+        - role: Mobile App Developer
+          time: 2018 March - Present
+          company: Fi Bilişim Hizmetleri AŞ, Pendik-Istanbul
+          details: Created custom mobile applications using native technologies as per client specifications, Involved in all aspects of the Android app lifecycle from research and planning through deployment and post-launch support, Provided weekly progress report to executive staff, ensuring that all parties were informed of milestones, Applied various techniques to locate bugs in applications in an efficient manner.
+
+        - role: Mobile App Developer
+          time: 2017 December - 2018 March
+          company: Eliaweb Internet ve Bilişim Hizmetleri AŞ, Pendik-Istanbul
+          details: Created custom mobile applications using native technologies as per client specifications, Involved in all aspects of the Android app lifecycle from research and planning through deployment and post-launch support, Provided weekly progress report to executive staff, ensuring that all parties were informed of milestones, Applied various techniques to locate bugs in applications in an efficient manner.
+
+
+projects:
+    title: Projects
+    intro: "Some of my open source projects and applications"
+    
+    projects:
+      - project:
+        title: Privset
+        link: "https://www.xda-developers.com/modify-android-framework-values-privset/"
+        tagline: "Modify Android Framework Values without needing APKTool using Privset"
+      - project:
+        title: AngelaRoot
+        link: "https://github.com/sirmordred/AngelaRoot"
+        tagline: "An app which escalates root privilege on device and installs SuperSU through newly vulnerability "angela root" without unlocking bootloader"
+      - project:
+        title: JarClassLoader
+        link: "https://github.com/sirmordred/JarClassLoader"
+        tagline: "Dynamically load class from jar at runtime from anywhere on android"
+      - project:
+        title: PianoBreaker
+        link: "https://github.com/sirmordred/PianoBreaker"
+        tagline: "PianoTiles 2 bot written in Java (For Android OS) which uses native internal Android System APIs such as InputManager and WindowManager"
+      - project:
+        title: AkustikVario
+        link: "https://github.com/sirmordred/AkustikVario"
+        tagline: "AkustikVario is Arduino-based variometer which produce sounds with buzzer to aware paraglider-pilots according to change in altitude"
+
+
+
+
+
+publications:
+    title: Publications
+    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    
+    publications:
+      - paper:
+        title: The Art of Computer Programming
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+
+skills:
+    title: Skills &amp; Proficiency
+    skills:
+        - skill:
+          name: Java
+          level: 98%
+        - skill:
+          name: Swift
+          level: 80%
+        - skill:
+          name: HTML5 & CSS
+          level: 70%
+        - skill:
+          name: C/C++
+          level: 85%
+
+
+
