@@ -92,7 +92,7 @@ projects:
       - project:
         title: AngelaRoot
         link: "https://github.com/sirmordred/AngelaRoot"
-        tagline: "An app which escalates root privilege on device and installs SuperSU through newly vulnerability "angela root" without unlocking bootloader"
+        tagline: "An app which escalates root privilege on device and installs SuperSU through newly vulnerability -angela root- without unlocking bootloader"
       - project:
         title: JarClassLoader
         link: "https://github.com/sirmordred/JarClassLoader"
