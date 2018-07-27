@@ -15,7 +15,7 @@ sidebar:
     website: blog.sirmordred.com #do not add http://
     linkedin: sirmordred
     github: sirmordred
-    twitter: '@LeoTetracaprio'
+    twitter: '@sirmordred34'
 
     languages:
         - language:
@@ -112,13 +112,13 @@ projects:
 
 publications:
     title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
     publications:
       - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        title: Lorem ipsum dolor sit amet
+        authors: Lorem ipsum
+        conference: Lorem ipsum dolor, 1970
 
 
 skills:
