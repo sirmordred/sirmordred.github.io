@@ -105,7 +105,10 @@ projects:
         title: AkustikVario
         link: "https://github.com/sirmordred/AkustikVario"
         tagline: "AkustikVario is Arduino-based variometer which produce sounds with buzzer to aware paraglider-pilots according to change in altitude"
-
+      - project:
+        title: BlackDot
+        link: "https://play.google.com/store/apps/details?id=com.oguzhan.mordred.blackdot"
+        tagline: "My first open-source android game(It only uses android's native APIs so No 3rd-party game engine is used"
 
 
 
@@ -119,6 +122,14 @@ contributions:
         title: Substratum
         link: "https://github.com/substratum/substratum/commits?author=sirmordred"
         tagline: "An advanced theming manager designed to be used with RRO, OMS and Dynamic Overlays"
+      - contribution:
+        title: android-BluetoothChat(Google)
+        link: "https://github.com/googlesamples/android-BluetoothChat/pull/9"
+        tagline: "Fixing race condition and various bugs in Google's official 2-way bt-chat android application"
+      - contribution:
+        title: Contributions and various improvements to linux kernel of Samsung Galaxy W(I8150)
+        link: "https://github.com/arco/samsung-kernel-msm7x30/pulls?q=is%3Apr+is%3Aclosed+author%3Asirmordred"
+        tagline: "Adding keydisabler sysfs node into kernel, Adding Contiguous Memory Allocator into kernel and gain extra 75 MB RAM, Adding ledflash sysf toggle into kernel"
 
 
 skills:
