@@ -233,18 +233,13 @@ p {
         }
     }
 
-    .publication-title {
+    .contribution-title {
         font-size: 16px;
         font-weight: 400;
-        color: $text-color;
-        margin-bottom: 1px;
+        margin-top: 0;
+        margin-bottom: 5px;
     }
-    .publication-authors {
-        font-style: italic;
-        color: $text-grey;
-        margin-bottom: 1px;
-    }
-    .publications-section {
+    . contributions-section {
         .intro {
             margin-bottom: 30px;
         }
