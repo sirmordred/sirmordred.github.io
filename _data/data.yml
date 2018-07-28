@@ -110,15 +110,15 @@ projects:
 
 
 
-publications:
-    title: Publications
-    intro: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+contributions:
+    title: Contributions
+    intro: "Some of my contributions into open source projects and applications"
     
-    publications:
-      - paper:
-        title: Lorem ipsum dolor sit amet
-        authors: Lorem ipsum
-        conference: Lorem ipsum dolor, 1970
+    contributions:
+      - contribution:
+        title: Substratum
+        link: "https://github.com/substratum/substratum/commits?author=sirmordred"
+        tagline: "An advanced theming manager designed to be used with RRO, OMS and Dynamic Overlays"
 
 
 skills:
